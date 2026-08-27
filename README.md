@@ -14,3 +14,22 @@
 🧠 Interesse em algoritmos, estruturas de dados e engenharia de software  
 
 🌱 Atualmente buscando aprimorar meus conhecimentos e desenvolver novos projetos
+
+
+
+🛠️ Tecnologias e Ferramentas
+🌐 Front-end
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" /> </p>
+
+🐍 Linguagens
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
+
+🗄️ Banco de Dados
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+
+📚 Outros
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
