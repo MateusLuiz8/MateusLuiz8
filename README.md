@@ -1,4 +1,5 @@
 # 👋 Olá! Eu sou Mateus Luiz
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Web;Desenvolvedor+Python;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" /> </p>
 
 💻 Estudante de Ciência da Computação | Desenvolvedor full stack
 
